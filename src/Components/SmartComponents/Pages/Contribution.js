@@ -1,6 +1,6 @@
 
 const ContributionPage = () => {
-    return 'cotrubution'
+    return 'Coming Soon'
 }
 
 export default ContributionPage;
