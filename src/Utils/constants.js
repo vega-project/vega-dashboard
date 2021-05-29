@@ -2,7 +2,7 @@ import { range } from './helper';
 
 export const AXES_CONFIG = {
     effectiveTemperature: {
-        start: 10000,
+        start: 10500,
         end: 20,
         total: 85,
         step: 1 //200
